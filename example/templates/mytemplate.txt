@@ -1,0 +1,3 @@
+Hello {{ planet }}!
+This is a template.
+My name is {{ grains['fqdn'] }}

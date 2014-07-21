@@ -1,2 +1,6 @@
+id: 'vagrant-example'
 file_client: local
 failhard: True
+grains:
+  roles:
+    - myexampleapp
